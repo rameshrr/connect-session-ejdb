@@ -1,0 +1,30 @@
+{
+    "name" : "connect-session-ejdb",
+    "version" : "1.0.0",
+    "description" : "EJDB session store for connect middleware",
+    "keywords" : ["ejdb",
+                  "connect",
+                  "session",
+                  "store"],
+    "author" : "Anton Adamansky <adamansky@gmail.com>",
+    "contributors" : [
+    ],
+    "bugs" : {
+        "web" : "https://github.com/Softmotions/connect-session-ejdb/issues"
+    },
+    "os" : [
+        "linux",
+        "darwin",
+        "sunos"
+    ],
+    "engines" : {
+        "node" : "0.8.x"
+    },
+    "directories" : {
+        "lib" : "lib"
+    },
+    "main" : "./lib/connect-session-ejdb",
+    "dependencies" : {
+        "connect" : ">=2.0.0"
+    }
+}
