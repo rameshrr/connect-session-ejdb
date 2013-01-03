@@ -1,6 +1,7 @@
 {
     "name" : "connect-session-ejdb",
     "version" : "1.0.0",
+    "homepage" : "https://github.com/Softmotions/connect-session-ejdb",
     "description" : "EJDB session store for connect middleware",
     "keywords" : ["ejdb",
                   "connect",
@@ -9,6 +10,10 @@
     "author" : "Anton Adamansky <adamansky@gmail.com>",
     "contributors" : [
     ],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/Softmotions/connect-session-ejdb.git"
+    },
     "bugs" : {
         "web" : "https://github.com/Softmotions/connect-session-ejdb/issues"
     },
