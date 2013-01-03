@@ -26,6 +26,7 @@
     "main" : "./lib/connect-session-ejdb",
     "dependencies" : {
         "connect" : ">=2.0.0",
-        "crc" : ">=0.2.0"
+        "crc" : ">=0.2.0",
+        "ejdb" : ">=1.0.39"
     }
 }
