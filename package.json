@@ -1,6 +1,6 @@
 {
     "name" : "connect-session-ejdb",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "homepage" : "https://github.com/Softmotions/connect-session-ejdb",
     "description" : "EJDB session store for connect middleware",
     "keywords" : ["ejdb",
