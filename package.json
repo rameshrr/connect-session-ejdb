@@ -17,13 +17,8 @@
     "bugs" : {
         "web" : "https://github.com/Softmotions/connect-session-ejdb/issues"
     },
-    "os" : [
-        "linux",
-        "darwin",
-        "sunos"
-    ],
     "engines" : {
-        "node" : "0.8.x || 0.10.x"
+        "node" : ">= 0.8.0"
     },
     "directories" : {
         "lib" : "lib"
