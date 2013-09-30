@@ -23,7 +23,7 @@
         "sunos"
     ],
     "engines" : {
-        "node" : ">0.8.x"
+        "node" : "0.8.x || 0.10.x"
     },
     "directories" : {
         "lib" : "lib"
